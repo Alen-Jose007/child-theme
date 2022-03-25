@@ -1,0 +1,36 @@
+/*
+ Theme Name:   Twenty Seventeen Child Theme
+ description: >-
+   A child theme of the Twenty Seventeen default WordPress theme
+ Author:       Alen Jose
+ Template:     twentyseventeen
+ Version:      1.0.0
+*/
+
+.content-area {
+  background: rgb(21, 211, 21);
+}
+
+.site-content-contain {
+  background-color: #39bbdf;
+  position: relative;
+}
+
+.widget {
+  background: #ec6911;
+  padding: 25px;
+  }
+
+  p {
+    color: rgba(19, 0, 128, 0.822);
+    }
+    p {
+    font-family: Georgia;
+    font-size: 50px;
+    }
+
+    .entry-title a {
+      color: #333;
+      text-decoration: none;
+      margin-left: -2px;
+  }
